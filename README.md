@@ -24,7 +24,7 @@
 ##### http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/
 
 ##### c:\windows\system32\drivers\etc\hosts
-
+172.20.200.124
 
 kubectl apply -f ./manifests/deploy-svc-eschool-v3.yaml
 kubectl apply -f ./manifests/ingress.yaml
